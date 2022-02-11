@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 This project tries to prove the following setup:
 
-- [ ] Next.js app
+- [x] Next.js app
 - [ ] Sanity CMS
 - [ ] Azure Static Web App hosting
 - [ ] Verify that ISG works with Azure SWA hosting
