@@ -15,7 +15,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 This project tries to prove the following setup:
 
 - [x] Next.js app
-- [ ] Sanity CMS
-- [ ] Azure Static Web App hosting
-- [ ] Verify that ISG works with Azure SWA hosting
-- [ ] Logging of each request to montor usage
+- [x] Sanity CMS
+- [ ] Azure Web App hosting
+- [ ] Azure CDN setup
+- [ ] Verify that ISG works with Azure hosting
+- [ ] Push trigger build
+- [ ] Deployment slots for feature branches
