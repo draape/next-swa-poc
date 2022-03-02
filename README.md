@@ -16,7 +16,7 @@ This project tries to prove the following setup:
 
 - [x] Next.js app
 - [x] Sanity CMS
-- [ ] Azure Web App hosting
+- [x] Azure Web App hosting
 - [ ] Azure CDN setup
 - [ ] Verify that ISG works with Azure hosting
 - [ ] Push trigger build
